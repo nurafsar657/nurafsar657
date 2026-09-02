@@ -1,4 +1,4 @@
-# ⚡ Hi, I'm Md. Afsarui Alam Nur 👋
+# ⚡ Hi, I'm Md. Afsarul Alam Nur 👋
 
 Aspiring Web Developer | Learning • Building • Improving • Repeat
 
