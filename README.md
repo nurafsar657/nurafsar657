@@ -1,171 +1,63 @@
-<!-- ==================== BANNER ==================== -->
-
-<p align="center">
-  <img src="./assets/banner.png" alt="Afsarul Alam Nur GitHub Banner" width="100%" />
-</p>
-
-
-<!-- ==================== INTRO ==================== -->
-
-<h1 align="center">
-  Hi 👋, I'm Afsarul Alam Nur
-</h1>
-
-<h3 align="center">
-  Aspiring Web Developer
-</h3>
-
-<p align="center">
-  Learning • Building • Improving • Repeat
-</p>
-
-<br>
-
-
-<!-- ==================== ABOUT ME ==================== -->
-
-## 👨‍💻 About Me
-
-- 🌱 I'm currently learning **React and Modern Web Development**
-- 💻 I enjoy learning **JavaScript and TypeScript**
-- 🚀 I love solving coding problems and building projects
-- 📚 Currently focused on improving my frontend development skills
-- 🎯 My goal is to become a skilled **Web Developer**
-- 📫 Email: **nurafsar657@gmail.com**
-- 🐦 X (Twitter): [@manofstraw595](https://x.com/manofstraw595)
-- 💼 LinkedIn: [Md. Afsarul Alam Nur](https://www.linkedin.com/in/md-afsarul-alam-nur-17861a288)
-
-
-<br>
-
-
-<!-- ==================== TECHNOLOGY STACK ==================== -->
-
-## 🛠️ Technology Stack
-
-### 🌐 Languages & Web Technologies
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind" />
-</p>
-
-
-<br>
-
-
-<!-- ==================== CURRENT FOCUS ==================== -->
-
-## 🎯 What I'm Currently Focusing On
-
-<table>
-  <tr>
-
-    <td align="center" width="25%">
-
-### 💻 Solving Problems
-
-Practicing JavaScript and programming problems.
-
-    </td>
-
-    <td align="center" width="25%">
-
-### ⚛️ Learning React
-
-Exploring React and modern frontend development.
-
-    </td>
-
-    <td align="center" width="25%">
-
-### 📚 Learning Everyday
-
-Improving my skills step by step.
-
-    </td>
-
-    <td align="center" width="25%">
-
-### 🎯 Consistency
-
-Building projects and staying focused.
-
-    </td>
-
-  </tr>
-</table>
-
-
-<br>
-
-
-<!-- ==================== GITHUB STATS ==================== -->
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=nurafsar657&show_icons=true&hide_border=true"
-    alt="GitHub Stats"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=nurafsar657&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
-
-
-<br>
-
-
-<!-- ==================== MOST USED LANGUAGES ==================== -->
-
-## 💻 Most Used Languages
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurafsar657&layout=compact&hide_border=true"
-    alt="Top Languages"
-  />
-</p>
-
-
-<br>
-
-
-<!-- ==================== DEVELOPER MINDSET ==================== -->
-
-## 💭 Developer Mindset
-
-<p align="center">
-
-> "Learning never stops. Every project is one step closer to becoming the developer I aspire to be."
-
-</p>
-
-
-<br>
-
-
-<!-- ==================== PROFILE VIEWS ==================== -->
-
-<p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=nurafsar657&label=Profile%20Views&style=flat"
-    alt="Profile Views"
-  />
-</p>
-
-
-<!-- ==================== FOOTER ==================== -->
-
-<h3 align="center">
-  ⭐ Learning • Building • Improving
-</h3>
-
-<p align="center">
-  Thanks for visiting my profile! 😊
-</p>
+# ⚡ Hi, I'm Touhidur Zaman 👋
+
+Web Instructor at Programming Hero | Passionate Full Stack Web Developer | JavaScript Enthusiast | Interested in Bioinformatics
+
+---
+
+### 📌 About Me
+- 🔭 **Frontend:** Currently working on **React.js, Next.js, TypeScript, and Redux**.
+- ⚙️ **Backend:** Working with **Node.js, Express.js, MongoDB, Mongoose, PostgreSQL, and Prisma**.
+- 🚀 **Learning:** React Native, GraphQL, Docker, and AWS.
+- 💬 **Ask me about:** Full-Stack (React, Next, Node, Express, MongoDB, PostgreSQL).
+- 🌐 **Portfolio:** [touhidcodes.vercel.app](https://touhidcodes.vercel.app/)
+- 📝 **Articles:** Writing regularly on [LinkedIn](https://linkedin.com/in/touhidur-zaman)
+- 📧 **Contact:** touhidcodes@gmail.com
+
+---
+
+### 🛠️ Technologies & Tools
+
+**Languages:**
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**CSS Frameworks & Libraries:**
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+**JavaScript Frameworks & Libraries:**
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-%23593D88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404D59.svg?style=for-the-badge&logo=express&logoColor=white)
+
+**Database & ORM:**
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+
+**Deployment Platform:**
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=%2300C7B7)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=Firebase&logoColor=white)
+
+**Design & Tools:**
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+### 📍 Where to find me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/touhidur-zaman)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://touhidcodes.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:touhidcodes@gmail.com)
