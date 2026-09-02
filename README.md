@@ -1,6 +1,6 @@
-# ⚡ Hi, I'm Touhidur Zaman 👋
+# ⚡ Hi, I'm Md. Afsarui Alam Nur 👋
 
-Web Instructor at Programming Hero | Passionate Full Stack Web Developer | JavaScript Enthusiast | Interested in Bioinformatics
+Aspiring Web Developer | Learning • Building • Improving • Repeat
 
 ---
 
@@ -9,9 +9,8 @@ Web Instructor at Programming Hero | Passionate Full Stack Web Developer | JavaS
 - ⚙️ **Backend:** Working with **Node.js, Express.js, MongoDB, Mongoose, PostgreSQL, and Prisma**.
 - 🚀 **Learning:** React Native, GraphQL, Docker, and AWS.
 - 💬 **Ask me about:** Full-Stack (React, Next, Node, Express, MongoDB, PostgreSQL).
-- 🌐 **Portfolio:** [touhidcodes.vercel.app](https://touhidcodes.vercel.app/)
-- 📝 **Articles:** Writing regularly on [LinkedIn](https://linkedin.com/in/touhidur-zaman)
-- 📧 **Contact:** touhidcodes@gmail.com
+- 📝 **Articles:** Writing regularly on [LinkedIn](https://linkedin.com/in/md-afsarul-alam-nur-17861a288)
+- 📧 **Contact:** nurafsar657@gmail.com
 
 ---
 
