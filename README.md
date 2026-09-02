@@ -5,7 +5,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=36BCF7&width=700&lines=Building+Interactive+Web+Experiences;JavaScript+%26+React+Enthusiast)](https://git.io/typing-svg)
 
-<p align="center">
+<p>
   <img src="https://komarev.com/ghpvc/?username=nurafsar657&label=PROFILE+VIEWS&color=00b4d8&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/nurafsar657?label=FOLLOWERS&style=for-the-badge&color=1d3557" alt="Followers" />
   <img src="https://img.shields.io/github/stars/nurafsar657?label=TOTAL+STARS&style=for-the-badge&color=00b4d8" alt="Total Stars" />
