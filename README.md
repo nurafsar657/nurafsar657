@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/github/followers/nurafsar657?label=FOLLOWERS&style=for-the-badge&color=1d3557" alt="Followers" />
   <img src="https://img.shields.io/github/stars/nurafsar657?label=TOTAL+STARS&style=for-the-badge&color=00b4d8" alt="Total Stars" />
 </p>
----
+
 
 ### 📌 About Me
 - 🔭 **Frontend:** Currently working on **React.js, Next.js, TypeScript, and Redux**.
@@ -75,8 +75,12 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nurafsar657&theme=synthwave-color-reg&show_icons=true&hide_border=false" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurafsar657&theme=synthwave-color-reg&layout=compact&hide_border=false" alt="Top Languages" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nurafsar657&theme=matrix&show_icons=true&hide_border=false" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurafsar657&theme=matrix&layout=compact&hide_border=false" alt="Top Languages" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nurafsar657&theme=darkgreen&hide_border=false" alt="GitHub Streak" width="98%" />
 </p>
 
 <p align="center">
