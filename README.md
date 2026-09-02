@@ -3,7 +3,7 @@
 
 # ⚡ Hi, I'm Md. Afsarul Alam Nur 👋
 
-Aspiring Web Developer | Learning • Building • Improving • Repeat
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=36BCF7&width=700&lines=Building+Interactive+Web+Experiences;JavaScript+%26+React+Enthusiast)](https://git.io/typing-svg)
 
 ---
 
