@@ -56,7 +56,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" alt="prisma" width="40" height="40"/>
-</p>
+</p> <br>
 
 **Deployment Platform:**  
 <p>
@@ -73,7 +73,11 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
 </p>
 
+### 📊 GitHub Analytics
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nurafsar657&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
+</p>
 
 ### 🐍 My GitHub Contribution Snake
 
