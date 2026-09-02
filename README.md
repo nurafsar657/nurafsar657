@@ -37,6 +37,7 @@
 **CSS Frameworks & Libraries:**  
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="40" height="40"/>
+  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="materialui" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>
 </p>
@@ -72,20 +73,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
 </p>
 
-## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nurafsar657&theme=matrix&show_icons=true&hide_border=false" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurafsar657&theme=matrix&layout=compact&hide_border=false" alt="Top Languages" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nurafsar657&theme=darkgreen&hide_border=false" alt="GitHub Streak" width="98%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nurafsar657&theme=darkgreen&hide_border=false" alt="GitHub Streak" width="98%" />
-</p>
 
 ### 🐍 My GitHub Contribution Snake
 
