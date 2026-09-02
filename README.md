@@ -5,6 +5,11 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=36BCF7&width=700&lines=Building+Interactive+Web+Experiences;JavaScript+%26+React+Enthusiast)](https://git.io/typing-svg)
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nurafsar657&label=PROFILE+VIEWS&color=00b4d8&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/nurafsar657?label=FOLLOWERS&style=for-the-badge&color=1d3557" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/nurafsar657?label=TOTAL+STARS&style=for-the-badge&color=00b4d8" alt="Total Stars" />
+</p>
 ---
 
 ### 📌 About Me
@@ -65,6 +70,12 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
+</p>
+
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nurafsar657&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
 ### 🐍 My GitHub Contribution Snake
