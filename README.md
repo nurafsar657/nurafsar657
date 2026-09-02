@@ -1,5 +1,5 @@
 
-<img width="1983" height="793" alt="ChatGPT Image Sep 2, 2026, 03_57_29 PM" src="https://github.com/user-attachments/assets/ad527840-b4d9-4c1f-9b7d-357eca41d1e2" />
+<img width="1954" height="793" alt="ChatGPT Image Sep 2, 2026, 03_57_29 PM" src="https://github.com/user-attachments/assets/b32fc33c-cf54-43e9-b285-05670250248e" />
 
 # ⚡ Hi, I'm Md. Afsarul Alam Nur 👋
 
