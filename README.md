@@ -72,10 +72,15 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
 </p>
 
-### 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nurafsar657&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nurafsar657&theme=synthwave-color-reg&show_icons=true&hide_border=false" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurafsar657&theme=synthwave-color-reg&layout=compact&hide_border=false" alt="Top Languages" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nurafsar657&theme=darkgreen&hide_border=false" alt="GitHub Streak" width="98%" />
 </p>
 
 ### 🐍 My GitHub Contribution Snake
