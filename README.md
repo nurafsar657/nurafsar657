@@ -24,15 +24,15 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/md-afsarul-alam-nur-17861a288" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-hero/main/public/icons/socials/linkedin.svg" width="36" height="36" alt="LinkedIn" />
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="https://x.com/manofstraw595" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-hero/main/public/icons/socials/twitter.svg" width="36" height="36" alt="X" />
+    <img src="https://skillicons.dev/icons?i=twitter" width="40" height="40" alt="X" />
   </a>
   &nbsp;
   <a href="https://www.instagram.com/silent_sphinx_?igsh=MW5yMTlqd2k3YXN0MA==" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-hero/main/public/icons/socials/instagram.svg" width="36" height="36" alt="Instagram" />
+    <img src="https://skillicons.dev/icons?i=instagram" width="40" height="40" alt="Instagram" />
   </a>
 </p>
 
