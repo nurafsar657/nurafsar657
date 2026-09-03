@@ -17,20 +17,22 @@
 - ⚙️ **Backend:** Working with **Node.js, Express.js, MongoDB, Mongoose, PostgreSQL, and Prisma**.
 - 🚀 **Learning:** React Native, GraphQL, Docker, and AWS.
 - 💬 **Ask me about:** Full-Stack (React, Next, Node, Express, MongoDB, PostgreSQL).
-- 📝 **Articles:** Writing regularly on [LinkedIn](https://linkedin.com/in/md-afsarul-alam-nur-17861a288)
+- 📝 **Articles:** Writing regularly on [LinkedIn](https://linkedin.com/in/md-afsarul-alam-nur-17861a288)<br>
 - 📧 **Contact:** nurafsar657@gmail.com
 
----### 🌐 Connect with Me:
+### 🌐 Connect with Me:
 
 <p align="left">
   <a href="https://www.linkedin.com/in/md-afsarul-alam-nur-17861a288" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-hero/main/public/icons/socials/linkedin.svg" width="36" height="36" alt="LinkedIn" />
   </a>
+  &nbsp;
   <a href="https://x.com/manofstraw595" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-hero/main/public/icons/socials/twitter.svg" width="36" height="36" alt="X" />
   </a>
+  &nbsp;
   <a href="https://www.instagram.com/silent_sphinx_?igsh=MW5yMTlqd2k3YXN0MA==" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-hero/main/public/icons/socials/instagram.svg" width="36" height="36" alt="Instagram" />
   </a>
 </p>
 
