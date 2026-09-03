@@ -85,3 +85,6 @@
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg?palette=github-dark" alt="Pacman Animation" width="100%" /><br>
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nurafsar657&theme=github-dark&hide_border=true" alt="Activity Graph" width="100%" /><br>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nurafsar657&theme=2077" alt="Profile Details" width="100%" />
+
