@@ -20,7 +20,19 @@
 - 📝 **Articles:** Writing regularly on [LinkedIn](https://linkedin.com/in/md-afsarul-alam-nur-17861a288)
 - 📧 **Contact:** nurafsar657@gmail.com
 
----
+---### 🌐 Connect with Me:
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/md-afsarul-alam-nur-17861a288" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/manofstraw595" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
+  </a>
+  <a href="https://www.instagram.com/silent_sphinx_?igsh=MW5yMTlqd2k3YXN0MA==" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
 
 ### 🛠️ Technologies & Tools
 
