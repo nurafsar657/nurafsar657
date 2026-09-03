@@ -87,3 +87,10 @@
 
 <br>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nurafsar657&theme=2077" alt="Profile Details" width="100%" /><br>
+### 👾 My GitHub Contribution Pacman
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nurafsar657/nurafsar657/output/github-contribution-grid-snake-dark.svg?v=2">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nurafsar657/nurafsar657/output/github-contribution-grid-snake.svg?v=2">
+  <img alt="github contribution grid pacman animation" src="https://raw.githubusercontent.com/nurafsar657/nurafsar657/output/github-contribution-grid-snake.svg?v=2" width="100%">
+</picture>
