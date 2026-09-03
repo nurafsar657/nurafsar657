@@ -34,7 +34,7 @@
   <a href="https://www.instagram.com/silent_sphinx_?igsh=MW5yMTlqd2k3YXN0MA==" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" width="40" height="40" alt="Instagram" />
   </a>
-</p>
+</p><br>
 
 ### 🛠️ Technologies & Tools
 
