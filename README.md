@@ -82,15 +82,6 @@
 
 ### 🐍 My GitHub Contribution Snake
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nurafsar657/nurafsar657/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nurafsar657/nurafsar657/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nurafsar657/nurafsar657/output/github-contribution-grid-snake.svg">
-</picture><br>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nurafsar657/nurafsar657/output/github-contribution-grid-snake-dark.svg">
-  <img src="https://github-profile-3d-contrib.puppetmaster.z13.web.core.windows.net/nurafsar657/dim.svg" alt="3D Profile Contrib" width="100%" />
-</picture><br>
+
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg?palette=github-dark" alt="Pacman Animation" width="100%" /><br>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nurafsar657&theme=react-dark&hide_border=true" alt="Activity Graph" width="100%" /><br>
-<img src="https://profile-summary-cards.herokuapp.com/api/cards/profile-details?username=nurafsar657&theme=zenburn" alt="Profile Details" width="100%" />
+
