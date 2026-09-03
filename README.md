@@ -28,7 +28,7 @@
   </a>
   &nbsp;
   <a href="https://x.com/manofstraw595" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" width="40" height="40" alt="X" />
+    <img src="https://skillicons.dev/icons?i=x" width="40" height="40" alt="X" />
   </a>
   &nbsp;
   <a href="https://www.instagram.com/silent_sphinx_?igsh=MW5yMTlqd2k3YXN0MA==" target="_blank">
