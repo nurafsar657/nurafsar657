@@ -28,7 +28,7 @@
   </a>
   &nbsp;
   <a href="https://x.com/manofstraw595" target="_blank">
-    <img src="https://img.shields.io/badge/-X-1D9BF0?style=square&logo=x&logoColor=white" height="40" alt="X" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40" height="40" alt="X" />
   </a>
   &nbsp;
   <a href="https://www.instagram.com/silent_sphinx_?igsh=MW5yMTlqd2k3YXN0MA==" target="_blank">
